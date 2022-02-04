@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotPao.ConsoleApp", "HotPao.ConsoleApp\HotPao.ConsoleApp.csproj", "{24B32FA5-D873-4FB5-9DC4-84BBCA697421}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24B32FA5-D873-4FB5-9DC4-84BBCA697421}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24B32FA5-D873-4FB5-9DC4-84BBCA697421}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24B32FA5-D873-4FB5-9DC4-84BBCA697421}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24B32FA5-D873-4FB5-9DC4-84BBCA697421}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F80BFBF7-64E7-424C-BA08-D8EF8305614C}
+	EndGlobalSection
+EndGlobal
